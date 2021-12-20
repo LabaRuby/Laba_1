@@ -102,7 +102,7 @@ class CommentsController
   extend Resource
 
   def initialize
-    @comments = ["Beautiful","Wonderful"]
+    @comments = ["Respect","OK"]
   end
 
   def index
